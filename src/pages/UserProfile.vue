@@ -1,17 +1,17 @@
 <template>
     <div class="row">
-      <div class="col-xl-4 col-lg-5 col-md-6">
-        <user-card>
-
-        </user-card>
-        <members-card>
-
-        </members-card>
+      <div class="col-xl-4 col-lg-5 col-md-4">
+        <profile-1></profile-1>
+        <profile-4></profile-4>
       </div>
-      <div class="col-xl-8 col-lg-7 col-md-6">
-        <edit-profile-form>
+      <div class="col-xl-4 col-lg-5 col-md-4">
+        <profile-2></profile-2>
+        <profile-5></profile-5>        
+      </div>
+      <div class="col-xl-4 col-lg-5 col-md-4">
+        <profile-3></profile-3>
+        <profile-6></profile-6>
 
-        </edit-profile-form>
       </div>
     </div>
 </template>
@@ -19,11 +19,23 @@
 import EditProfileForm from "./UserProfile/EditProfileForm.vue";
 import UserCard from "./UserProfile/UserCard.vue";
 import MembersCard from "./UserProfile/MembersCard.vue";
+import Profile1 from './UserProfile/Profile1.vue';
+import Profile2 from './UserProfile/Profile2.vue';
+import Profile3 from './UserProfile/Profile2.vue';
+import Profile4 from './UserProfile/Profile2.vue';
+import Profile5 from './UserProfile/Profile2.vue';
+import Profile6 from './UserProfile/Profile2.vue';
 export default {
   components: {
     EditProfileForm,
     UserCard,
-    MembersCard
+    MembersCard,
+    Profile1,
+    Profile2,
+    Profile3,
+    Profile4,
+    Profile5,
+    Profile6
   }
 };
 </script>
