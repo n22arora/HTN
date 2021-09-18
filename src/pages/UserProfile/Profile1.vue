@@ -22,14 +22,16 @@
     </div>
     <hr>
     <div class="text-center">
-      <div class="row">
+      <!-- <button>Donate Now</button> -->
+      <p-button type="success" round>Donate Now</p-button>
+      <!-- <div class="row">
         <div v-for="(info, index) in details" :key="index" :class="getClasses(index)">
           <h5>{{info.title}}
             <br>
             <small>{{info.subTitle}}</small>
           </h5>
         </div>
-      </div>
+      </div> -->
     </div>
   </card>
 </template>
