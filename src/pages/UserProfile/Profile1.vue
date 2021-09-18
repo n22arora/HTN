@@ -23,7 +23,8 @@
     <hr>
     <div class="text-center">
       <!-- <button>Donate Now</button> -->
-      <p-button type="success" round>Donate Now</p-button>
+      <p-button type="success" round>Donate Now</p-button>&nbsp;
+      <p-button type="info" round>Know More</p-button>
       <!-- <div class="row">
         <div v-for="(info, index) in details" :key="index" :class="getClasses(index)">
           <h5>{{info.title}}
