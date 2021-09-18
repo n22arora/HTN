@@ -22,7 +22,8 @@
     </div>
     <hr>
     <div class="text-center">
-        <p-button type="success" round>Donate Now</p-button>
+        <p-button type="success" round>Donate Now</p-button>&nbsp;
+      <p-button type="info" round>Know More</p-button>
     </div>
   </card>
 </template>
