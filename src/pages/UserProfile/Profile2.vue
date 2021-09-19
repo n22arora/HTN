@@ -6,18 +6,16 @@
     <br><br><br>
     <div>
       <div class="author">
-        <img class="avatar border-white" src="@/assets/img/faces/face-2.jpg" alt="...">
-        <h4 class="title">Chet Faker
+        <img class="avatar border-white" src="@/assets/img/faces/Melissa.jpg" alt="...">
+        <h4 class="title">Amy Santiago
           <br>
           <a href="#">
-            <small>@chetfaker</small>
+            <small>New York, US - 38</small>
           </a>
         </h4>
       </div>
       <p class="description text-center">
-        "I like the way you work it
-        <br> No diggity
-        <br> I wanna bag it up"
+        I am from New York, US
       </p>
     </div>
     <hr>

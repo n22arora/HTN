@@ -21,10 +21,10 @@ import UserCard from "./UserProfile/UserCard.vue";
 import MembersCard from "./UserProfile/MembersCard.vue";
 import Profile1 from './UserProfile/Profile1.vue';
 import Profile2 from './UserProfile/Profile2.vue';
-import Profile3 from './UserProfile/Profile2.vue';
-import Profile4 from './UserProfile/Profile2.vue';
-import Profile5 from './UserProfile/Profile2.vue';
-import Profile6 from './UserProfile/Profile2.vue';
+import Profile3 from './UserProfile/Profile3.vue';
+import Profile4 from './UserProfile/Profile4.vue';
+import Profile5 from './UserProfile/Profile5.vue';
+import Profile6 from './UserProfile/Profile6.vue';
 export default {
   components: {
     EditProfileForm,
