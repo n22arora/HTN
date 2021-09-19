@@ -15,16 +15,11 @@ const routes = [
   {
     path: "/",
     component: DashboardLayout,
-    redirect: "/dashboard",
+    redirect: "/feed",
     children: [
       {
-        path: "dashboard",
-        name: "dashboard",
-        component: Dashboard
-      },
-      {
-        path: "profile",
-        name: "profile",
+        path: "feed",
+        name: "feed",
         component: UserProfile
       },
       {

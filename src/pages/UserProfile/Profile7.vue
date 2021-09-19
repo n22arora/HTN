@@ -6,21 +6,21 @@
     <br><br><br>
     <div>
       <div class="author">
-        <img class="avatar border-white" src="@/assets/img/faces/rosadiaz.png" alt="...">
-        <h4 class="title">Rosa Diaz
+        <img class="avatar border-white" src="@/assets/img/faces/dougjudy.png" alt="...">
+        <h4 class="title">Doug Judy
           <br>
           <a href="#">
-            <small>San Diego, US - 56</small>
+            <small>New York, US - 34</small>
           </a>
         </h4>
       </div>
       <p class="description text-center">
-       I am from San Diego
+        I am from New York
       </p>
     </div>
     <hr>
     <div class="text-center">
-        <p-button type="success" round>Donate Now</p-button>&nbsp;
+      <p-button type="success" round>Donate Now</p-button>&nbsp;
       <p-button type="info" round>Know More</p-button>
     </div>
   </card>
