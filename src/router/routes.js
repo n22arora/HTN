@@ -36,7 +36,7 @@ const routes = [
       },
       {
         path: "myprofile",
-        name: "My Profile",
+        name: "Go Back to Feed",
         component: MyProfile
       },
       {
