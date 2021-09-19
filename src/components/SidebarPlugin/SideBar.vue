@@ -11,7 +11,7 @@
       <div class="logo">
         <a href="#" class="simple-text">
             <div class="logo-img">
-                <img src="@/assets/img/p1.png" alt="">
+                <img src="@/assets/img/p.jpeg" alt="">
             </div>
           {{title}}
         </a>

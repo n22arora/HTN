@@ -5,6 +5,7 @@ import NotFound from "@/pages/NotFoundPage.vue";
 // Admin pages
 // import Dashboard from "@/pages/Dashboard.vue";
 import KnowMore from "@/pages/KnowMore.vue"
+import MyProfile from "@/pages/MyProfile.vue"
 import UserProfile from "@/pages/UserProfile.vue";
 import Notifications from "@/pages/Notifications.vue";
 import Icons from "@/pages/Icons.vue";
@@ -32,6 +33,11 @@ const routes = [
         path: "knowmore",
         name: "Amy Santiago",
         component: KnowMore
+      },
+      {
+        path: "myprofile",
+        name: "My Profile",
+        component: MyProfile
       },
       {
         path: "icons",
