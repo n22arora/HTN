@@ -35,6 +35,14 @@
 </template>
 <script>
 export default {
+  props: {
+    user: {
+      name: String,
+      age: Number,
+      city: String,
+      description: String
+    }
+  },
   data() {
     return {
       details: [
