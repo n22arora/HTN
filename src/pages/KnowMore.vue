@@ -1,8 +1,8 @@
 <template>
-  <card class="card-user">
-    <!-- <div slot="image">
+<div>
+    <div slot="image">
       <img src="@/assets/img/background.jpg" alt="...">
-    </div> -->
+    </div>
     <br><br><br>
     <div>
       <div class="author">
@@ -18,12 +18,21 @@
         I am from New York, US
       </p>
     </div>
+    <br>
+    <div class="row">
+      <div class="col" align="center"> 
+        <h5 class="title"> Fun Facts</h5>
+      </div>
+      <div class="col" align="center"> 
+        <h5 class="title"> How I ended up here?</h5>
+      </div>
+    </div>
     <hr>
     <div class="text-center">
       <p-button type="success" round>Donate Now</p-button>&nbsp;
       <router-link to ="/knowmore"><p-button type="info" round>Know More</p-button></router-link>
     </div>
-  </card>
+</div>
 </template>
 <script>
 export default {
