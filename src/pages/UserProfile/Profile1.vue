@@ -6,18 +6,16 @@
     <br><br><br>
     <div>
       <div class="author">
-        <img class="avatar border-white" src="@/assets/img/faces/face-2.jpg" alt="...">
-        <h4 class="title">Chet Faker
+        <img class="avatar border-white" src="@/assets/img/faces/jakeperalta.jpg" alt="...">
+        <h4 class="title">Jake Peralta
           <br>
           <a href="#">
-            <small>@chetfaker</small>
+            <small>Brooklyn, US - 40</small>
           </a>
         </h4>
       </div>
       <p class="description text-center">
-        "I like the way you work it
-        <br> No diggity
-        <br> I wanna bag it up"
+        I am 40 year old retired person from Brooklyn, US
       </p>
     </div>
     <hr>
