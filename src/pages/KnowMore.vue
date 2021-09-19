@@ -6,22 +6,22 @@
     <br><br><br>
     <div>
       <div class="author">
-        <img class="avatar border-white" src="@/assets/img/faces/terry.jpg" alt="...">
-        <h4 class="title">Terry Jeffords
+        <img class="avatar border-white" src="@/assets/img/faces/Melissa.jpg" alt="...">
+        <h4 class="title">Amy Santiago
           <br>
           <a href="#">
-            <small>Buffalo, US - 33</small>
+            <small>New York, US - 38</small>
           </a>
         </h4>
       </div>
       <p class="description text-center">
-        Terry loves Yogurt!
+        I am from New York, US
       </p>
     </div>
     <hr>
     <div class="text-center">
       <p-button type="success" round>Donate Now</p-button>&nbsp;
-      <p-button type="info" round>Know More</p-button>
+      <router-link to ="/knowmore"><p-button type="info" round>Know More</p-button></router-link>
     </div>
   </card>
 </template>

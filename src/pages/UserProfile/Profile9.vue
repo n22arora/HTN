@@ -15,7 +15,7 @@
         </h4>
       </div>
       <p class="description text-center">
-        I am from Brooklyn
+        My twitter handle is B9NREHAL778WO9054 which is hexadecimal representation of Raymond Holt
       </p>
     </div>
     <hr>

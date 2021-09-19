@@ -15,13 +15,13 @@
         </h4>
       </div>
       <p class="description text-center">
-        I am from New York, US
+        I File Hard. I Need Strong Tabs...
       </p>
     </div>
     <hr>
     <div class="text-center">
       <p-button type="success" round>Donate Now</p-button>&nbsp;
-      <p-button type="info" round>Know More</p-button>
+      <router-link to ="/knowmore"><p-button type="info" round>Know More</p-button></router-link>
     </div>
   </card>
 </template>

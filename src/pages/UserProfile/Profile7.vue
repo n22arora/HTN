@@ -15,7 +15,7 @@
         </h4>
       </div>
       <p class="description text-center">
-        I am from New York
+        Pontiac Bandit and Jake, PB&J again
       </p>
     </div>
     <hr>

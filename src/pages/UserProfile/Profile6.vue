@@ -15,7 +15,7 @@
         </h4>
       </div>
       <p class="description text-center">
-        I am from Buffalo
+        Oh, I love Paris! At least how it's represented in the Movie, Ratatouille
       </p>
     </div>
     <hr>
