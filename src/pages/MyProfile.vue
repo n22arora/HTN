@@ -1,9 +1,9 @@
 <template>
-  <card class="card-user">
+  <div>
     <div align="center">
       <img src="@/assets/img/profile.png" alt="...">
     </div>
-  </card>
+  </div>
 </template>
 <script>
 export default {

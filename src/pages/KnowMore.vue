@@ -1,5 +1,5 @@
 <template>
-<div>
+<card class="card-user">
     <div slot="image">
       <img src="@/assets/img/background.jpg" alt="...">
     </div>
@@ -32,7 +32,7 @@
       <p-button type="success" round>Donate Now</p-button>&nbsp;
       <router-link to ="/knowmore"><p-button type="info" round>Know More</p-button></router-link>
     </div>
-</div>
+</card>
 </template>
 <script>
 export default {
