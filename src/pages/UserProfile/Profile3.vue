@@ -15,7 +15,7 @@
         </h4>
       </div>
       <p class="description text-center">
-        I am from Indiana, US
+        I miss my HOME CHAIR
       </p>
     </div>
     <hr>

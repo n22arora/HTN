@@ -15,7 +15,7 @@
         </h4>
       </div>
       <p class="description text-center">
-        I am 40 year old retired person from Brooklyn, US
+        Cool, cool, cool, cool, cool, cool....
       </p>
     </div>
     <hr>

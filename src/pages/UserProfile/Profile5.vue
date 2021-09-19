@@ -6,7 +6,7 @@
     <br><br><br>
     <div>
       <div class="author">
-        <img class="avatar border-white" src="@/assets/img/faces/rosadiaz.png" alt="...">
+        <img class="avatar border-white" src="@/assets/img/faces/rosadiaz.jpg" alt="...">
         <h4 class="title">Rosa Diaz
           <br>
           <a href="#">
@@ -15,7 +15,7 @@
         </h4>
       </div>
       <p class="description text-center">
-       I am from San Diego
+       What kind of a woman Doesn't have an Ax
       </p>
     </div>
     <hr>

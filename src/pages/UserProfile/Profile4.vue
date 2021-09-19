@@ -15,7 +15,7 @@
         </h4>
       </div>
       <p class="description text-center">
-        I am from Livermore, CA
+        Mamma Maglione
       </p>
     </div>
     <hr>
