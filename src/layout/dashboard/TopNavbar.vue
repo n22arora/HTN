@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container-fluid">
       <a class="navbar-brand" href="/">{{routeName}}</a>
-      <a class="navbar-brand" href="http://localhost:8080/#/myprofile" target="_blank">My Profile</a>
+      <a class="navbar-brand" href="http://localhost:8080/#/myprofile">My Profile</a>
       <button class="navbar-toggler navbar-burger"
               type="button"
               @click="toggleSidebar"
