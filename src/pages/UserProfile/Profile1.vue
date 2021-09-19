@@ -6,30 +6,31 @@
     <br><br><br>
     <div>
       <div class="author">
-        <img class="avatar border-white" src="@/assets/img/faces/face-2.jpg" alt="...">
-        <h4 class="title">Chet Faker
+        <img class="avatar border-white" src="@/assets/img/faces/jakeperalta.jpg" alt="...">
+        <h4 class="title">Jake Peralta
           <br>
           <a href="#">
-            <small>@chetfaker</small>
+            <small>Brooklyn, US - 40</small>
           </a>
         </h4>
       </div>
       <p class="description text-center">
-        "I like the way you work it
-        <br> No diggity
-        <br> I wanna bag it up"
+        Cool, cool, cool, cool, cool, cool....
       </p>
     </div>
     <hr>
     <div class="text-center">
-      <div class="row">
+      <!-- <button>Donate Now</button> -->
+      <p-button type="success" round>Donate Now</p-button>&nbsp;
+      <p-button type="info" round>Know More</p-button>
+      <!-- <div class="row">
         <div v-for="(info, index) in details" :key="index" :class="getClasses(index)">
           <h5>{{info.title}}
             <br>
             <small>{{info.subTitle}}</small>
           </h5>
         </div>
-      </div>
+      </div> -->
     </div>
   </card>
 </template>
